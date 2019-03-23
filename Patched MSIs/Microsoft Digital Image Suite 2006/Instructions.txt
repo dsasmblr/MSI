@@ -1,0 +1,5 @@
+NOTE: Installation will NOT work via CD! If you are trying to install from an actual CD, you must instead copy the contents of the first disc to a folder somewhere on a local drive on your computer.
+
+1. Inside of the insallation folder, you will notice a folder called PIP.
+2. Download the MSI from this repository and save it inside of the PIP folder.
+3. Double-click on "PI (No IE Install)" and your installation will begin!
